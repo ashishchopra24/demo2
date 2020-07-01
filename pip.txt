@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE Pip3A4PurchaseOrderConfirmation SYSTEM "3A4_MS_R02_00_PurchaseOrderConfirmation.dtd"><Pip3A4PurchaseOrderConfirmation>
+aslkj
+sdslkd
+</Pip3A4PurchaseOrderConfirmation>
